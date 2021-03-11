@@ -1,7 +1,7 @@
 # Cpp_data_structures
 C++  data structure implementation
 
-C++ Queue data structure imlplementation with an Abstract class that is template class and three implementation :
+C++ Queue data structure imlplementation with an Abstract class that is template class and has three implementation :
 
 - QueueArr implements Queue with Array.
 - QueueLink implements Queue with Link data structure that I implemented that in this file.
